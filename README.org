@@ -1,0 +1,8 @@
+* ofxThinkgear
+Author: Laurent Bedubourg <laurent@labe.me>
+
+This is a little addon I made to play with NeuroSky's headset and openFrameworks.
+
+I do not intend to maintain it, feel free to clone and fix!
+
+BSD Licence
