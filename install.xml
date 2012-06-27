@@ -1,0 +1,19 @@
+<install>
+	<name>ofxThinkgear</name>
+	<version>0.01</version>
+	<author>Laurent Bedubourg</author>
+	<url></url>
+	<add>
+		<src>
+			<folder name="addons/ofxThinkgear/src">
+				<file>../../../addons/ofxThinxgear/src/ofxThinkgear.h</file>
+				<file>../../../addons/ofxThinxgear/src/ofxThinkgear.cpp</file>
+				<file>../../../addons/ofxThinxgear/src/ThinkGearStreamParser.h</file>
+				<file>../../../addons/ofxThinxgear/src/ThinkGearStreamParser.c</file>
+			</folder>
+		</src>
+		<include>
+			<path>../../../addons/ofxThinkgear/src</path>
+		</include>
+	</add>
+</install>
